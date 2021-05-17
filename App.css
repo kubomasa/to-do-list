@@ -1,0 +1,24 @@
+body{
+background-color:burlywood;
+}
+.App{
+  font-size:  80px;
+  text-align:center;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-stretch: wider;
+}
+.AAA{
+  font-size:40px;
+  text-align:center;
+}
+.BBB{
+  font-size:40px;
+  text-align:center;
+  border-radius: 100vh;
+  color: #fff;
+  background-color: #eb6100;
+}
+.BBB:hover{
+  color: #fff;
+  background: #f56500;
+}
